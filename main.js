@@ -54,7 +54,7 @@ else if (squares[1]==squares[2] && squares[2]==squares[3] && squares[1] !=''){
 
 }
 
-//  function turn 
+//  function turn  الدور
 function game(id){
 
     let element = document.getElementById(id);
